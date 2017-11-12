@@ -188,7 +188,7 @@ switch(fgetc($myfile)) {
 			case A : case a: $A[$i]++; break;
 			case B : case b: $B[$i]++; break;
 			case C : case c: $C[$i]++; break;
-			case D : case D: $D[$i]++; break;
+			case D : case d: $D[$i]++; break;
 			case E : case e: $E[$i]++; break;
 				}
 			}
